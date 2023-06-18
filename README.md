@@ -6,5 +6,5 @@ cách 1: có 2 file python và 2 file csv
 
 # decription cách 2
 cách 2: có 2 file python
-  + c2_main.py: là file sẽ crawl dữ liệu của shopee về và lưu trực tiếp vào db mongo/
+  + c2_main.py: là file sẽ crawl dữ liệu của shopee về và lưu trực tiếp vào db mongo.
   + c2_file_select.py: là file sẽ truy xuất dữ liệu trực tiếp từ db mongo sau đó sắp xếp dữ liệu theo kiểu timeseries và in ra màn hình. 
